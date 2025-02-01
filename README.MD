@@ -5,3 +5,4 @@ git add - add new files
 git commit - commit new changes
 git clone - clone remote repository
 git push - send changes to remote repository
+git reomte -v - view repositories
